@@ -1,4 +1,6 @@
 # swiperjsdemo
+[Netlify Live Site](https://gregarious-sprinkles-4fe687.netlify.app/)
+
 [SwiperJS](https://swiperjs.com/)
 ```
 npm i swiper
